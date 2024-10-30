@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather App](https://github.com/Aryan-561/Weather-App-React)
 
-- 🌱 I’m currently start learning **Nodejs**
+- 🌱 I’m currently start learning **Python**
 
 - 💬 Ask me about **React, javaScript and TailwindCSS**
 
