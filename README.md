@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Aryan-561/Weather-App-React)
 
 - 🌱 I’m currently start learning **Python**
 
