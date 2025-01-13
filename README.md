@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently start learning **Nodejs**
+- 🌱 I’m currently start learning **Backend**
 
 - 💬 Ask me about **React, javaScript and TailwindCSS**
 
