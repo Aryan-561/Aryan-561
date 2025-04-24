@@ -31,13 +31,8 @@
 
 ---
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aryan-561&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/HimanshuTamoli24)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aryan-561&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Aryan-561)
 
----
-
-## 📊 GitHub Stats:
-| <a href="https://github.com/aryan-561"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-561&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" /></a> | <a href="https://github.com/Aryan-561"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-561&theme=radical&hide_border=true" alt="GitHub Streak" /></a> |
-|---|---|
 
 ---
 
