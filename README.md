@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on [KIHEAT Ranklist](https://github.com/Aryan-561/KIHEAT-Ranklist-Backend)
-- 🌱 I’m currently start learning **Backend**
+- 🌱 I’m currently start learning **Next**
 - 💬 Ask me about **React, Node.js, MongoDB**  
 - 📫 How to reach me **aryanmail561@gmail.com**
 
