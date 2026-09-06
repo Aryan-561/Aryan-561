@@ -1,43 +1,127 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Always+learning+new+tech!" alt="Typing SVG" />
+<div align="center">
+
+# Hey, I'm Aryan 👋
+
+### Full Stack Developer · AI Application Developer
+
+Building modern web applications, scalable APIs, and AI-powered products with a focus on clean architecture and great user experiences.
+
+<p>
+    <a href="https://portfolioaryandev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Aryan-561">
+    <img src="https://img.shields.io/badge/GitHub-Aryan--561-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-ab64822ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Aryan-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:aryanmail561@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aryanmail561%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-
-- 🔭 I’m currently working on [KIHEAT Ranklist](https://github.com/Aryan-561/KIHEAT-Ranklist-Backend)
-- 🌱 I’m currently start learning **Next**
-- 💬 Ask me about **React, Node.js, MongoDB**  
-- 📫 How to reach me **aryanmail561@gmail.com**
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## About
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm a **Full Stack Developer** from **Delhi, India**, with a strong interest in building production-ready web applications and AI-powered experiences.
+
+My work spans **frontend development, backend APIs, databases, authentication, type-safe systems, monorepos, and AI integrations**. I enjoy turning ideas into clean, practical products that are easy to use and maintain.
+
+- 🎓 BCA graduate from **KIHEAT**
+- 📍 Delhi, India
+- 🧠 Interested in **AI Agents, RAG, and AI-powered SaaS**
+- ⚙️ Focused on **TypeScript, Next.js, Node.js, APIs, and databases**
+- 🏗️ Comfortable with **monorepo and type-safe application architecture**
 
 ---
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=aryan-561&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Aryan-561)
+## Tech Stack
 
+### Frontend
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/aryan_3_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_3_14" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/aryan-ab64822ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aryan-ab64822ba/" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,ts,js" alt="Frontend technologies">
 </p>
+
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Redux` · `TanStack Query` · `Axios` · `Shadcn UI` · `React Hook Form`
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies">
+</p>
+
+`Node.js` · `Express.js` · `tRPC` · `REST APIs` · `JWT` · `OAuth 2.0` · `Supabase Auth` · `Zod`
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database technologies">
+</p>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Drizzle ORM` · `Mongoose`
+
+### AI
+
+`AI Agents` · `RAG` · `LangChain` · `Groq AI`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Development tools">
+</p>
+
+`Git` · `GitHub` · `Postman` · `VS Code` · `Antigravity IDE` · `Vercel`
+
+---
+
+## Featured Projects
+
+### 📝 Form Canvas
+
+**AI-powered full-stack form builder**
+
+Built with **Next.js 15, React 19, TypeScript, Turborepo, tRPC, PostgreSQL, Drizzle ORM, and Zod**.
+
+- Monorepo architecture with Turborepo
+- End-to-end type-safe APIs with tRPC
+- AI-powered form generation
+- Create, customize, and publish forms
+
+**[Live Demo →](https://formcanvas.roothq.tech/)**
+
+---
+
+### 🎓 KIHEAT Ranklist System
+
+**Academic ranking platform for students and faculty**
+
+Built with **React, Node.js, Express.js, MongoDB, and Mongoose**.
+
+- Interactive academic dashboards
+- Student search and ranking workflows
+- RESTful backend APIs
+- Efficient academic record management
+
+**[Live Demo →](https://kiheatranklist.vercel.app/)**
+
+---
+
+### 🤖 RankWise — AI Academic Assistant
+
+**AI-powered academic analytics and ranking assistant**
+
+Built with **Next.js 15, React 19, TypeScript, Tailwind CSS, MongoDB, LangChain, and Groq AI**.
+
+- AI chatbot for SGPA and grade analysis
+- Ranking and performance insights
+- Semester-wise and subject-wise analytics
+- MongoDB-backed student and AI insight management
+
+**[View on GitHub →](https://github.com/Aryan-561/RankWise)**
+
+---
