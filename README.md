@@ -19,6 +19,9 @@ Building modern web applications, scalable APIs, and AI-powered products with a 
   <a href="mailto:aryanmail561@gmail.com">
     <img src="https://img.shields.io/badge/Email-aryanmail561%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+    <a href="https://leetcode.com/u/aryan561/">
+       <img src="https://img.shields.io/badge/LeetCode-Aryan561-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+    </a>
 </p>
 
 </div>
